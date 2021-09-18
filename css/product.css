@@ -1,0 +1,65 @@
+
+
+
+
+
+
+.card{
+    width: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.card-body{
+    background-color:#827ffe;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    
+}
+
+
+
+.add-btn{
+    background-color: rgb(102, 75, 167);
+    color: white;
+    border-width: 3px;
+    
+    border-style: solid;
+    border-radius: 2px;
+    height: 50px;
+     width: 150px; 
+    
+    padding: 2px;
+}
+
+
+
+.footer {
+    color: white;
+    text-align:center;
+    margin-top: 140px;
+    height: 80px;
+    padding-top: 30px;
+    position:absolute;
+    width: 100%;
+   }
+   .footer p {
+    margin:0;
+    line-height:26px;
+    font-size:15px;
+    color:#999
+   }
+   .footer p a {
+    color:#5867dd
+   }
+   .footer p a:hover {
+    color:#34bfa3
+   }
+
+
+
+
+
+   
